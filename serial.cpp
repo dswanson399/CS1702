@@ -5,7 +5,7 @@
 #include "common.h"
 
 //
-//  benchmarking program
+//  benchmarking program Test change
 //
 int main( int argc, char **argv )
 {    
